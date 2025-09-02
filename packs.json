@@ -1,0 +1,62 @@
+[
+  {
+    "id": "writer-idea-generator",
+    "title": "Idea Generator for Writers",
+    "tagline": "Endless plot hooks, twists, and scenes.",
+    "tags": [
+      "writing",
+      "ideas",
+      "plot"
+    ],
+    "sections": [
+      {
+        "heading": "Kickoff",
+        "items": [
+          "Give me 10 original story premises set in the Shenandoah Valley mixing gothic romance and modern realism.",
+          "Generate 5 opening paragraphs that imply a supernatural secret without naming it."
+        ]
+      },
+      {
+        "heading": "Deepen the Conflict",
+        "items": [
+          "List 12 escalating complications for a mortal \u00d7 immortal relationship that feel fresh.",
+          "Offer 8 scene prompts where weather and landscape mirror the internal conflict."
+        ]
+      },
+      {
+        "heading": "Polish & Marketing",
+        "items": [
+          "Write 10 back-cover hooks (25\u201335 words each) with distinct vibes: lyrical, eerie, punchy.",
+          "Draft a 7\u2011email launch sequence with curiosity gaps and cliffhanger micro-excerpts."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "designer-template-links",
+    "title": "Designer Template Creator Links",
+    "tagline": "Jump directly into proven template libraries.",
+    "tags": [
+      "design",
+      "templates",
+      "branding"
+    ],
+    "sections": [
+      {
+        "heading": "Start Here",
+        "items": [
+          "Open Canva Templates: https://www.canva.com/templates/",
+          "Open Figma Community Templates: https://www.figma.com/community",
+          "Open Notion Template Gallery: https://www.notion.so/templates"
+        ]
+      },
+      {
+        "heading": "Make It Yours",
+        "items": [
+          "List brand colors, serif/sans pairings, and button styles for a calm gothic aesthetic.",
+          "Export a social kit (1080\u00d71080, 1080\u00d71920) with headline, subhead, and CTA."
+        ]
+      }
+    ]
+  }
+]
